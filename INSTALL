@@ -1,0 +1,9 @@
+Building HIVE
+
+See doc/readme-qt.rst for instructions on building HIVE QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of HIVE.
+
+See doc/build-*.txt for instructions on building hived,
+the intended-for-services, no-graphical-interface, reference
+implementation of HIVE.
